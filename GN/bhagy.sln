@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITP", "WindowsFormsApplication1\ITP.csproj", "{E2A2016F-A47D-4F60-B5E8-044F3DFC7FAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Package and shipment", "..\Package and shipment - Nilsindu\Package and shipment\Package and shipment.csproj", "{4B0AF470-3F45-4A19-9874-14734E418F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountingManagementSysem", "..\AccountingManagementSysem2\AccountingManagementSysem\AccountingManagementSysem.csproj", "{73973305-A811-4BC2-BE48-CDF46528C148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee", "..\Employee\ITP\Employee.csproj", "{C176FABE-4755-4DB3-B652-972671DB2A42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "purchase", "..\NEWWWWW\Project001\Project001\purchase.csproj", "{326BEB03-B7B1-421A-9699-68C880238B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manufacturing Management System", "..\2016.09.19\Manufacturing Management System\Manufacturing Management System\Manufacturing Management System.csproj", "{308E0979-FE14-46F8-A0DD-50A18A3CA778}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9226744-223C-4D3C-8F96-0C5115D3949F}"
+	ProjectSection(SolutionItems) = preProject
+		SequenceDiagram1.sequencediagram = SequenceDiagram1.sequencediagram
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2A2016F-A47D-4F60-B5E8-044F3DFC7FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A2016F-A47D-4F60-B5E8-044F3DFC7FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A2016F-A47D-4F60-B5E8-044F3DFC7FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A2016F-A47D-4F60-B5E8-044F3DFC7FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0AF470-3F45-4A19-9874-14734E418F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0AF470-3F45-4A19-9874-14734E418F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0AF470-3F45-4A19-9874-14734E418F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0AF470-3F45-4A19-9874-14734E418F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73973305-A811-4BC2-BE48-CDF46528C148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73973305-A811-4BC2-BE48-CDF46528C148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73973305-A811-4BC2-BE48-CDF46528C148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73973305-A811-4BC2-BE48-CDF46528C148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C176FABE-4755-4DB3-B652-972671DB2A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C176FABE-4755-4DB3-B652-972671DB2A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C176FABE-4755-4DB3-B652-972671DB2A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C176FABE-4755-4DB3-B652-972671DB2A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326BEB03-B7B1-421A-9699-68C880238B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326BEB03-B7B1-421A-9699-68C880238B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326BEB03-B7B1-421A-9699-68C880238B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326BEB03-B7B1-421A-9699-68C880238B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{308E0979-FE14-46F8-A0DD-50A18A3CA778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308E0979-FE14-46F8-A0DD-50A18A3CA778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308E0979-FE14-46F8-A0DD-50A18A3CA778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308E0979-FE14-46F8-A0DD-50A18A3CA778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

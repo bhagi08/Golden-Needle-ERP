@@ -1,0 +1,160 @@
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\ITP.csprojResolveAssemblyReference.cache
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addOrd.resources
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.order.resources
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dash.resources
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\ITP.csproj.GenerateResource.Cache
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\ITP.csprojResolveAssemblyReference.cache
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addOrd.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.clients.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dash.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sample.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.order.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\ITP.csproj.GenerateResource.Cache
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewOrd.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addCli.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewCli.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addSamples.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewSamples.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewSmaster.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FP.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewOmaster.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Payments.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addPay.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewPay.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewPmaster.resources
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\bin\Debug\LiveCharts.dll
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BHAGI\Desktop\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewCmaster.resources
+D:\bhagy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\bhagy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\bhagy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\bhagy\WindowsFormsApplication1\bin\Debug\AccountingManagementSysem.exe
+D:\bhagy\WindowsFormsApplication1\bin\Debug\Employee.exe
+D:\bhagy\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+D:\bhagy\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\bhagy\WindowsFormsApplication1\bin\Debug\LiveCharts.dll
+D:\bhagy\WindowsFormsApplication1\bin\Debug\LiveCharts.WinForms.dll
+D:\bhagy\WindowsFormsApplication1\bin\Debug\LiveCharts.Wpf.dll
+D:\bhagy\WindowsFormsApplication1\bin\Debug\Package and shipment.exe
+D:\bhagy\WindowsFormsApplication1\bin\Debug\Project001.exe
+D:\bhagy\WindowsFormsApplication1\bin\Debug\AccountingManagementSysem.pdb
+D:\bhagy\WindowsFormsApplication1\bin\Debug\Employee.pdb
+D:\bhagy\WindowsFormsApplication1\bin\Debug\Project001.pdb
+D:\bhagy\WindowsFormsApplication1\bin\Debug\Package and shipment.pdb
+D:\bhagy\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+D:\bhagy\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\bhagy\WindowsFormsApplication1\obj\Debug\ITP.csprojResolveAssemblyReference.cache
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addOrd.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addPay.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewCmaster.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewPay.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Payments.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FP.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewOmaster.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewPmaster.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewSamples.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.clients.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addCli.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addSamples.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewCli.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dash.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sample.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.order.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewOrd.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewSmaster.resources
+D:\bhagy\WindowsFormsApplication1\obj\Debug\ITP.csproj.GenerateResource.Cache
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\AccountingManagementSysem.exe
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\Employee.exe
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\LiveCharts.dll
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\LiveCharts.WinForms.dll
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\LiveCharts.Wpf.dll
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\Package and shipment.exe
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\Project001.exe
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\AccountingManagementSysem.pdb
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\Employee.pdb
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\Project001.pdb
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\Package and shipment.pdb
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\ITP.csprojResolveAssemblyReference.cache
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addOrd.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addPay.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewCmaster.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewPay.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Payments.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FP.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewOmaster.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewPmaster.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewSamples.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.clients.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addCli.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addSamples.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewCli.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dash.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sample.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.order.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewOrd.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewSmaster.resources
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\ITP.csproj.GenerateResource.Cache
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\Manufacturing Management System.exe
+D:\bhagy - Copy\WindowsFormsApplication1\bin\Debug\Manufacturing Management System.pdb
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\ITP.csprojAssemblyReference.cache
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addOrd.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addPay.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewCmaster.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewPay.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Payments.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FP.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewOmaster.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewPmaster.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewSamples.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.clients.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addCli.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addSamples.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewCli.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dash.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sample.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.order.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewOrd.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.viewSmaster.resources
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\ITP.csproj.GenerateResource.cache
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\ITP.csproj.CoreCompileInputs.cache
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bhagy\Downloads\OneDrive-2016-09-28\bhagy - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

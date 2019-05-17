@@ -1,0 +1,685 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E2A2016F-A47D-4F60-B5E8-044F3DFC7FAE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>MixedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.7.13.0, Culture=neutral, PublicKeyToken=c5935629d38af058, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.7.13\lib\portable-net40+sl5+win8+wp8+wpa81\LiveCharts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.7.13.0, Culture=neutral, PublicKeyToken=1f1e67602fe23622, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.7.13\lib\net45\LiveCharts.WinForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.7.13.0, Culture=neutral, PublicKeyToken=3b585c2a5f1a92c1, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.7.13\lib\net45\LiveCharts.Wpf.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addOrd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addOrd.Designer.cs">
+      <DependentUpon>addOrd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addCli.Designer.cs">
+      <DependentUpon>addCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addPay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addPay.Designer.cs">
+      <DependentUpon>addPay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetTotOrd_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GoldenDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GoldenDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GoldenDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GoldenDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GoldenDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GoldenDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="viewCmaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewCmaster.Designer.cs">
+      <DependentUpon>viewCmaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewPay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewPay.Designer.cs">
+      <DependentUpon>viewPay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payments.Designer.cs">
+      <DependentUpon>Payments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FP.Designer.cs">
+      <DependentUpon>FP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewOmaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewOmaster.Designer.cs">
+      <DependentUpon>viewOmaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewPmaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewPmaster.Designer.cs">
+      <DependentUpon>viewPmaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewSamples.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewSamples.Designer.cs">
+      <DependentUpon>viewSamples.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addSamples.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addSamples.Designer.cs">
+      <DependentUpon>addSamples.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Currency.cs" />
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoldenDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GoldenDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GoldenDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GoldenDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GoldenDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GoldenDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GoldenDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GoldenDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Log.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewCli.Designer.cs">
+      <DependentUpon>viewCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dash.Designer.cs">
+      <DependentUpon>dash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoldenDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GoldenDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GoldenDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GoldenDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GoldenDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GoldenDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sample.Designer.cs">
+      <DependentUpon>sample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBconnect.cs" />
+    <Compile Include="Design.cs" />
+    <Compile Include="clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clients.Designer.cs">
+      <DependentUpon>clients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="order.Designer.cs">
+      <DependentUpon>order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewOrders.Designer.cs">
+      <DependentUpon>viewOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Validation.cs" />
+    <Compile Include="viewSmaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewSmaster.Designer.cs">
+      <DependentUpon>viewSmaster.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addOrd.resx">
+      <DependentUpon>addOrd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addPay.resx">
+      <DependentUpon>addPay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewCmaster.resx">
+      <DependentUpon>viewCmaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewPay.resx">
+      <DependentUpon>viewPay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments.resx">
+      <DependentUpon>Payments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FP.resx">
+      <DependentUpon>FP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewOmaster.resx">
+      <DependentUpon>viewOmaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewPmaster.resx">
+      <DependentUpon>viewPmaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewSamples.resx">
+      <DependentUpon>viewSamples.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clients.resx">
+      <DependentUpon>clients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addCli.resx">
+      <DependentUpon>addCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addSamples.resx">
+      <DependentUpon>addSamples.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewCli.resx">
+      <DependentUpon>viewCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dash.resx">
+      <DependentUpon>dash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sample.resx">
+      <DependentUpon>sample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order.resx">
+      <DependentUpon>order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewOrders.resx">
+      <DependentUpon>viewOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="viewSmaster.resx">
+      <DependentUpon>viewSmaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="GoldenDataSet.xsc">
+      <DependentUpon>GoldenDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GoldenDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GoldenDataSet.xss">
+      <DependentUpon>GoldenDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet1.xsc">
+      <DependentUpon>GoldenDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GoldenDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GoldenDataSet1.xss">
+      <DependentUpon>GoldenDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet2.xsc">
+      <DependentUpon>GoldenDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GoldenDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GoldenDataSet2.xss">
+      <DependentUpon>GoldenDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet3.xsc">
+      <DependentUpon>GoldenDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GoldenDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GoldenDataSet3.xss">
+      <DependentUpon>GoldenDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet4.xsc">
+      <DependentUpon>GoldenDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GoldenDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GoldenDataSet4.xss">
+      <DependentUpon>GoldenDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet5.xsc">
+      <DependentUpon>GoldenDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GoldenDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GoldenDataSet5.xss">
+      <DependentUpon>GoldenDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet6.xsc">
+      <DependentUpon>GoldenDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GoldenDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GoldenDataSet6.xss">
+      <DependentUpon>GoldenDataSet6.xsd</DependentUpon>
+    </None>
+    <EntityDeploy Include="Model1.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model1.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="GoldenDataSet7.xsc">
+      <DependentUpon>GoldenDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GoldenDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GoldenDataSet7.xss">
+      <DependentUpon>GoldenDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet8.xsc">
+      <DependentUpon>GoldenDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GoldenDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GoldenDataSet8.xss">
+      <DependentUpon>GoldenDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet9.xsc">
+      <DependentUpon>GoldenDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="GoldenDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GoldenDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GoldenDataSet9.xss">
+      <DependentUpon>GoldenDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="Model1.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.Context.cs</LastGenOutput>
+    </None>
+    <None Include="Model1.edmx.diagram">
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </None>
+    <None Include="Model1.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.cs</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_O.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\client-profile %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\client-profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jacket %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View_O.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cp2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\db.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\db2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jacket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jacket2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\need.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\searching.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cli.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cli2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\serCli.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\serCli2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addSa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addSa2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewSa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viewSa2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\locked-padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\needle-with-thread-to-sew-clothes1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\locked-padlockR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\credit-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\credit-card R.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ccr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vpR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\2016.09.19\Manufacturing Management System\Manufacturing Management System\Manufacturing Management System.csproj">
+      <Project>{308e0979-fe14-46f8-a0dd-50a18a3ca778}</Project>
+      <Name>Manufacturing Management System</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\AccountingManagementSysem2\AccountingManagementSysem\AccountingManagementSysem.csproj">
+      <Project>{73973305-a811-4bc2-be48-cdf46528c148}</Project>
+      <Name>AccountingManagementSysem</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Employee\ITP\Employee.csproj">
+      <Project>{c176fabe-4755-4db3-b652-972671db2a42}</Project>
+      <Name>Employee</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\NEWWWWW\Project001\Project001\purchase.csproj">
+      <Project>{326beb03-b7b1-421a-9699-68c880238b94}</Project>
+      <Name>purchase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Package and shipment - Nilsindu\Package and shipment\Package and shipment.csproj">
+      <Project>{4b0af470-3f45-4a19-9874-14734e418f40}</Project>
+      <Name>Package and shipment</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

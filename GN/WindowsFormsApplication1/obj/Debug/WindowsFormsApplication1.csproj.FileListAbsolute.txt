@@ -1,0 +1,22 @@
+c:\users\bhagi\documents\visual studio 2013\Projects\DashBoard\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\bhagi\documents\visual studio 2013\Projects\DashBoard\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\bhagi\documents\visual studio 2013\Projects\DashBoard\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\bhagi\documents\visual studio 2013\Projects\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\bhagi\documents\visual studio 2013\Projects\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dash.resources
+c:\users\bhagi\documents\visual studio 2013\Projects\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\bhagi\documents\visual studio 2013\Projects\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\bhagi\documents\visual studio 2013\Projects\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\bhagi\documents\visual studio 2013\Projects\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\BHAGI\Documents\Visual Studio 2013\Projects\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.order.resources
+C:\Users\BHAGI\Documents\Visual Studio 2013\Projects\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addOrd.resources
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addOrd.resources
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.order.resources
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dash.resources
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\BHAGI\Desktop\DashBoard\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

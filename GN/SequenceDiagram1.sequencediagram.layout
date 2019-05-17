@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sequenceDesignerDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SequenceDiagram1">
+  <SequenceDesignerModelMoniker Id="822603ff-9b43-46b7-894f-380742ff1e54" />
+  <nestedChildShapes>
+    <lifelineShape Id="45b8d8e7-7923-4fdc-89dd-bbcc7bb2a612" absoluteBounds="1.1979166666666667, 1, 0.15, 7" visible="true" visualStyleMode="Modified">
+      <lifelineMoniker Id="b25f15f3-2810-4a11-b653-b2252a8b9c24" LastKnownName="Lifeline1" />
+      <relativeChildShapes>
+        <dotNetLifelineHeadShape Id="3f9ab2e4-44e9-4ac7-bda4-bf62052d8978" absoluteBounds="0.7729166666666667, 0.6, 1, 0.4" customColor="184, 204, 215" visualStyleMode="Modified">
+          <lifelineMoniker Id="b25f15f3-2810-4a11-b653-b2252a8b9c24" LastKnownName="Lifeline1" />
+          <relativeChildShapes />
+        </dotNetLifelineHeadShape>
+        <lifelineHoverShape Id="e11a99dd-16cb-4a88-bf31-b581a251abd8" absoluteBounds="1.1979166666666667, 1, 0, 7">
+          <lifelineMoniker Id="b25f15f3-2810-4a11-b653-b2252a8b9c24" LastKnownName="Lifeline1" />
+        </lifelineHoverShape>
+      </relativeChildShapes>
+    </lifelineShape>
+    <lifelineShape Id="7203715b-9cfd-48c5-bcf7-0d72f46cc14b" absoluteBounds="3.2916665871938071, 1, 0.15, 7" visible="true" visualStyleMode="Modified">
+      <lifelineMoniker Id="beb5529a-8dec-42f7-a434-7cf9c92291cb" LastKnownName="Lifeline2" />
+      <relativeChildShapes>
+        <dotNetLifelineHeadShape Id="90984b18-5437-441c-89c9-91a7f0bff7aa" absoluteBounds="2.8666665871938073, 0.6, 1, 0.4" customColor="184, 204, 215" visualStyleMode="Modified">
+          <lifelineMoniker Id="beb5529a-8dec-42f7-a434-7cf9c92291cb" LastKnownName="Lifeline2" />
+          <relativeChildShapes />
+        </dotNetLifelineHeadShape>
+        <lifelineHoverShape Id="3030a32c-ac32-46f9-80c1-9d7a0b99da51" absoluteBounds="3.2916665871938071, 1, 0, 7">
+          <lifelineMoniker Id="beb5529a-8dec-42f7-a434-7cf9c92291cb" LastKnownName="Lifeline2" />
+        </lifelineHoverShape>
+      </relativeChildShapes>
+    </lifelineShape>
+  </nestedChildShapes>
+</sequenceDesignerDiagram>
